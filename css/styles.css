@@ -1,9 +1,21 @@
+/*
+light pink: #f2d7ee
+grayish beige: #d3bcc0
+mauve ish: #a5668b
+purple: #69306d
+dark blue: #0e103d
+*/
+
 body{
-  background-color: #F2D7EE;
+  background-color: #f2d7ee;
   color: #0E103D;
 }
 
 p {
   color: #A5668B;
   font-weight: bold;
+}
+
+h2 {
+  color: #69306D;
 }
