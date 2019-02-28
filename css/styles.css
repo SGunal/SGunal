@@ -9,11 +9,13 @@ dark blue: #0e103d
 body{
   background-color: #d3bcc0;
   color: #0E103D;
+  font-family: 'Chonburi', cursive;
 }
 
 p {
   color: #A5668B;
   font-weight: bold;
+  font-family: "Proxima Nova", sans-serif;
 }
 
 h2 {
