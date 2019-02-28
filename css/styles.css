@@ -7,7 +7,7 @@ dark blue: #0e103d
 */
 
 body{
-  background-color: #f2d7ee;
+  background-color: #d3bcc0;
   color: #0E103D;
 }
 
@@ -18,4 +18,11 @@ p {
 
 h2 {
   color: #69306D;
+}
+
+.work, .education {
+  background-color: #f2d7ee;
+}
+a:hover {
+  color: #bf1885;
 }
