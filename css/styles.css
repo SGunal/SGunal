@@ -28,3 +28,10 @@ h2 {
 a:hover {
   color: #bf1885;
 }
+
+img {
+  float: left;
+  width: 150px;
+  height: 125px;
+  padding: 20px;
+}
